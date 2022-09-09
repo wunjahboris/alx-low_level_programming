@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #include <stdlib.h>
+=======
+include <stdlib.h>
+>>>>>>> 5ea310de0a99c896f61da19753f1cf73f5695c75
 #include <time.h>
 /* more headers goes there */
 
